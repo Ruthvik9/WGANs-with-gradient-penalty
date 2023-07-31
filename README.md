@@ -1,5 +1,7 @@
 # WGANs-with-gradient-penalty
 
+Results after just a few epochs with 20000 images of 128 X 128 dimension -
+
 ![image](https://github.com/Ruthvik9/WGANs-with-gradient-penalty/assets/74010232/50b98771-e598-46e2-ba05-7f9ca1d44e1a)
 
 
