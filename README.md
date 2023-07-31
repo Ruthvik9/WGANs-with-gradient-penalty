@@ -18,6 +18,9 @@ In this project, a WGAN-GP model is implemented and trained on the CelebA datase
 Key Features of this Implementation:
 
 Data Loading and Preprocessing: Implemented a custom data loader for efficiently loading and preprocessing CelebA images, which includes resizing and normalizing the images.
+
 Model Architecture: Built the generator and critic models using convolutional layers in PyTorch, following the architecture guidelines suggested in the original WGAN-GP paper.
+
 Training Procedure: Developed a robust training loop which includes efficient computation of the gradient penalty for stable training, updating the generator and critic models using the Adam optimizer, and tracking the training progress by logging the losses.
+
 Performance Visualization using **weights and biases**: Included functionality for visualizing the generated faces during training, which provides a clear indication of the model's performance and progression.
